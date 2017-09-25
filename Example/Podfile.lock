@@ -1,0 +1,16 @@
+PODS:
+  - MyClass (0.1.0)
+
+DEPENDENCIES:
+  - MyClass (from `../`)
+
+EXTERNAL SOURCES:
+  MyClass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyClass: 2d8e8072676aa2e81e12650abe8cd006827fc204
+
+PODFILE CHECKSUM: 73142749bf0c6eb1d43eeaac36c24b04bbe80cd3
+
+COCOAPODS: 1.2.1
