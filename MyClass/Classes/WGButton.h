@@ -9,4 +9,6 @@
 
 @interface WGButton : UIButton
 
+@property(nonatomic, strong) NSString *first;
+
 @end
