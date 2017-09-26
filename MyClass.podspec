@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MyClass'
-  s.version          = '1.0.2'
+  s.version          = '1.0.6'
   s.summary          = 'A hahahhaha'
 
 # This description is used to generate tags and improve search results.
